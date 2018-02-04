@@ -1,4 +1,4 @@
-
+'use strict';
 function addition(x) {
     if (x <= 10) {
         console.log(x + 6);
